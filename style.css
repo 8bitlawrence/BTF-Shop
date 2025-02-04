@@ -1,0 +1,47 @@
+.title {
+  font-family: "Silkscreen", sans-serif;
+  display: inline-block ;
+  margin-left: 400px;
+}
+
+.subtitle {
+  font-family: "Silkscreen", sans-serif;
+  text-align: center;
+  font-size: medium;
+}
+
+.btflink {
+  font-family: "Silkscreen", sans-serif;
+  text-decoration: none;
+  border: 4px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  background-color: gold;
+  color: black;
+  border-radius: 4px;
+  position: absolute;
+  right: 0px;
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.buybtf{
+  font-family: "Silkscreen", sans-serif;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+
+.i{
+  font-family: "Silkscreen", sans-serif;
+  
+}
+
+.i2{
+  font-family: "Silkscreen", sans-serif;
+}
+
